@@ -1,6 +1,6 @@
 # About me
 
-~ Minecraft Exploits & Antycheats Developer
+~ Exploits & Antycheats Developer
 
 # Contact
 
