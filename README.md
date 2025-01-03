@@ -1,9 +1,9 @@
 # About me
 
-~ Exploits & Antycheats Developer
-~ Server creator (2016)
-~ Client Creator ~ Soon own client
-~ Businessman 
+~ Exploits & Antycheats Developer\
+~ Server creator (2016)\
+~ Client Creator ~ Soon own client\
+~ Businessman
 
 
 
