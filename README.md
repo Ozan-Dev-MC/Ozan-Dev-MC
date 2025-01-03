@@ -9,7 +9,7 @@
 
 # What Do I Code?
 
-~ Anti Exploits
-~ AntyCheats
-~ Anti VPN
+~ Anti Exploits\
+~ AntyCheats\
+~ Anti VPN\
 ~ ClientsBlocker
