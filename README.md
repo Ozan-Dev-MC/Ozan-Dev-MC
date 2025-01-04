@@ -1,6 +1,7 @@
 # About me
 
 ~ Exploits & Antycheats Developer\
+~ Hammer those bugs!\
 ~ Server Minecraft Creator (2016)\
 ~ Client Creator ~ Soon own client\
 ~ Businessman
