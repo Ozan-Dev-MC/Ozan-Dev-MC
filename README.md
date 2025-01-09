@@ -1,8 +1,8 @@
 # About me
 
-~ Mystery
-~ Silent
-~ Chill
+~ Mystery\
+~ Silent\
+~ Chill\
 ~ Businessman
 
 
