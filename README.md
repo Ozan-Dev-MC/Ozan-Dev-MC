@@ -1,10 +1,8 @@
 # About me
 
-~ Exploits & Antycheats Developer\
-~ Minigame Developer\
-~ Hammer those bugs!\
-~ Server Minecraft Creator (2016)\
-~ Client Creator ~ Soon own client\
+~ Mystery
+~ Silent
+~ Chill
 ~ Businessman
 
 
@@ -14,4 +12,5 @@
 ~ Anti Exploits\
 ~ AntyCheats\
 ~ Anti VPN\
-~ ClientsBlocker
+~ ClientsBlocker\
+~ Minigames
