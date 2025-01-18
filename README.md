@@ -15,7 +15,7 @@
 ~ ClientsBlocker\
 ~ Minigames
 
-# On what Project am I working on?
+# On what Project/s am I working on?
 
 ~ Owner @Mokusei\
 ~ Owner @Brookmc
