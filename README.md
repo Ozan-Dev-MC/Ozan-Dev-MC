@@ -11,7 +11,6 @@
 
 ~ Anti Exploits\
 ~ AntyCheats\
-~ Anti VPN\
 ~ ClientsBlocker\
 ~ Minigames
 
