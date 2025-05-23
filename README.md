@@ -10,9 +10,7 @@
 # What Do I Code?
 
 ~ Anti Exploits\
-~ AntyCheats\
-~ ClientsBlocker\
-~ Minigames
+~ Minigames\
 
 # On what Project/s am I working on?
 
