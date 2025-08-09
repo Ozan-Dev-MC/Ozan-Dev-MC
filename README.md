@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Alex!
+# Hi there 👋, I'm Ozan!
 
-💻 Developer | 🎨 Designer | 🛠️ Creator of Cool Stuff  
+💻 Developer | 🎨 Designer | 🛠️ Make a wish guy  
 
 ## 🚀 Skills
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
@@ -8,11 +8,18 @@
 ![Minecraft](https://img.shields.io/badge/SpigotMC-blue?style=for-the-badge)
 
 ## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolCoder123&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozan-Dev-MC&show_icons=true&theme=tokyonight)
 
-## 🔥 Featured Projects
-- [🚀 Awesome Plugin](https://github.com/CoolCoder123/AwesomePlugin) – Anti-cheat for Minecraft
-- [🌌 Space Adventures](https://github.com/CoolCoder123/SpaceAdventures) – Space survival plugin
+## 🔥 My Public Projests
+- [🚀 KnockBackSettings](https://github.com/Ozan-Dev-MC/KnockbackSettings) – Setup your pvp
+- [🌌 AntiDisconnectFIX](https://github.com/Ozan-Dev-MC/AntiDisconnectFIX) – A remake plugin of AntiDisconnect
 
-## 📫 Contact Me
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/yourcode)
+## 🛠️ Working On 
+
+# NaturalDisasterSMP
+[![Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pUWZ2unSWN)
+
+# PingSMP
+[![Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6C3zp7VyS8)
+
+# GalaticSMP (SOON)
