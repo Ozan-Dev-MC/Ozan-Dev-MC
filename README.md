@@ -6,6 +6,7 @@
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Minecraft](https://img.shields.io/badge/SpigotMC-blue?style=for-the-badge)
+![PaperMC](https://img.shields.io/badge/PaperMC-3B3B3B?style=for-the-badge&logo=minecraft)
 
 ## 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozan-Dev-MC&show_icons=true&theme=tokyonight)
