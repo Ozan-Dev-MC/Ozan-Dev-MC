@@ -17,10 +17,8 @@
 
 ## 🛠️ Working On 
 
-# NaturalDisasterSMP
-[![Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pUWZ2unSWN)
+# GalaticSMP
+[![Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jptNH5gM5z)
 
 # PingSMP
 [![Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6C3zp7VyS8)
-
-# GalaticSMP (SOON)
